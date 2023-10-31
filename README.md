@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakamodiya&show_icons=true&locale=en" alt="adityakamodiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakamodiya&" alt="adityakamodiya" /></p>
+
 
 <!--
 **adityakamodiya/adityakamodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
