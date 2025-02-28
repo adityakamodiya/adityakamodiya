@@ -14,9 +14,8 @@
 
 <!-- About Me -->
 ## 🙋‍♂️ About Me
-- 🔭 **Currently working on:** Full Stack Development  
-- 🌱 **Exploring:** Next.js, Docker, and AWS  
-- 💡 **Interest Areas:** Problem Solving, Backend Development, System Design  
+- 🔭 **Currently working on:** Full Stack Development    
+- 💡 **Interest Areas:** Problem Solving, Backend Development, Website Development  
 - 📫 **How to reach me:** adityakamodiya@gmail.com  
 - 📄 **Know about my experiences:** [Click Here](#)  
 - ⚡ **Fun Fact:** No any fact 😅  
